@@ -1,0 +1,25 @@
+Quiero que me ayudes a diseñar y documentar un sistema de software desde cero. El sistema se llama LTI, una startup que quiere crear el ATS (Applicant Tracking System) del futuro. No existe nada todavía, así que necesito que me ayudes a definir la primera versión.
+
+Necesito que generes lo siguiente:
+
+Descripción breve del software LTI, su valor añadido, ventajas competitivas y sus funciones principales. Incluye también un Lean Canvas para el modelo de negocio.
+
+Tres casos de uso principales, cada uno con su diagrama correspondiente.
+
+Modelo de datos con entidades, atributos (nombre y tipo) y relaciones entre tablas.
+
+Diseño del sistema a alto nivel, con explicación y un diagrama de arquitectura.
+
+Diagrama C4, llegando en profundidad a uno de los componentes clave del sistema.
+
+Quiero que uses un enfoque claro y ordenado, siguiendo estas fases:
+
+Investigación y análisis
+
+Casos de uso
+
+Modelado de datos
+
+Diseño del sistema y arquitectura
+
+Hazlo de forma completa, bien estructurada y pensando como si fueras parte del equipo que está levantando este producto desde cero, como un ingeniero en desarrollo senior que sabes hacer de todo: diseño, QA, levantamiento de requerimientos, documentación técnica, diagramas (en formato mermaid), arquitectura de sistemas, investigación de mercado con deseables mejores que la competencia, testing y devops, etc. Generame un .md para descargar con lo solicitado.
